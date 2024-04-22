@@ -1,0 +1,1 @@
+//Difference between minimum and maximum number
